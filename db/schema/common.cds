@@ -19,6 +19,8 @@ context trainingBruno.common {
         draft = 'D';
     }
 
+    
+
 
 
 
